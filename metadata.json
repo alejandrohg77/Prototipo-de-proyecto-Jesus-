@@ -1,0 +1,5 @@
+{
+  "name": "StockControl",
+  "description": "Sistema integral de gestión de inventario y activos para pequeñas bodegas y negocios locales, enfocado en la simplicidad y el control administrativo.",
+  "requestFramePermissions": []
+}
